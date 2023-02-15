@@ -10,7 +10,8 @@ Having a VIP here does not make it a formally accepted standard until its status
 
 Those proposing changes should consider that ultimately consent may rest with the consensus of the Verge Currency users.
 
-| Number                       | Layer | Title                                            | Owner(s) | Type    | Status |
-| ---------------------------- | ----- | ------------------------------------------------ | -------- | ------- | ------ |
-| [0001](vip-0001/vip-0001.md) |       | Definition of Verge Imrpovement Proposals (VIPs) | John Doe | Process | Draft  |
-| --                           | --    | --                                               | --       | --      | --     |
+| Number                       | Layer        | Title                                            | Owner(s) | Type          | Status |
+| ---------------------------- | ------------ | ------------------------------------------------ | -------- | ------------- | ------ |
+| [0001](vip-0001/vip-0001.md) |              | Definition of Verge Imrpovement Proposals (VIPs) | John Doe | Informational | Draft  |
+| [0002](vip-0002/vip-0002.md) | Applications | Implementation of ISO20022                       | John Doe | Standard      | Draft  |
+| --                           | --           | --                                               | --       | --            | --     |
