@@ -12,6 +12,6 @@ Those proposing changes should consider that ultimately consent may rest with th
 
 | Number                       | Layer        | Title                                            | Owner(s) | Type          | Status |
 | ---------------------------- | ------------ | ------------------------------------------------ | -------- | ------------- | ------ |
-| [0001](vip-0001/vip-0001.md) |              | Definition of Verge Imrpovement Proposals (VIPs) | John Doe | Informational | Draft  |
-| [0002](vip-0002/vip-0002.md) | Applications | Implementation of ISO20022                       | John Doe | Standard      | Draft  |
-| --                           | --           | --                                               | --       | --            | --     |
+| [0001](vip-0001/vip-0001.md) |              | Definition of Verge Imrpovement Proposals (VIPs) | John Doe | Informational | Active |
+| [0002](vip-0002/vip-0002.md) | Applications | Implementation of ISO20022                       | John Doe | Standard      | Active |
+| [0003](vip-0003/vip-0003.md) | Layer 2(ETH) | Implementation XVG ERC-20                        | John Doe | Stanard       | Active |
